@@ -1,4 +1,35 @@
 body {
-  background-color: rgb(0, 0, 0),
-  color: rgb(255, 255, 255)
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+}
+
+h1 {
+
+  color: rgb(255, 255, 255);
+  font-family: "Roboto", sans-serif;
+
+}
+
+h3 {
+  color: rgb(255, 255, 255);
+  font-family: "Roboto", sans-serif;
+
+}
+
+p {
+  color: rgb(255, 255, 255);
+  font-family: "Roboto", sans-serif;
+}
+
+.l1 {
+  font-family: "Roboto", sans-serif;
+  color: #7A46CA;
+}
+.l2 {
+  font-family: "Roboto", sans-serif;
+  color: #2C5DFC;
+
 }
